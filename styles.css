@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+body{
+	padding:0px;
+	margin:0px;
+	color:blue;
+}
+img{
+	hieght:100%;
+	width:100%;
+}
+a{
+	text-decoration:underline;
+	font-weight:bold;
+	color:blue;
+	
+}
